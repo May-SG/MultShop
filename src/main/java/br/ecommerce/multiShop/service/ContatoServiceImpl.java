@@ -1,0 +1,7 @@
+package br.ecommerce.multiShop.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ContatoServiceImpl implements ContatoService {
+}
