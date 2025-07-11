@@ -12,7 +12,7 @@ public class Contato {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    private Long id;
 
     @JsonBackReference
     @OneToOne(optional = false)
