@@ -28,9 +28,9 @@ Para ver o progresso atual do meu laboratório, você precisará do JDK 11+ inst
    ```
    
 2. **Execute a aplicação:**
-  ```bash
-  mvn spring-boot:run
-  ```
+   ```bash
+     mvn spring-boot:run
+   ```
 
 ### 📈 Próximos Passos de Estudo:
 - [ ] Implementar tratamento de exceções customizado.
